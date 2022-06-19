@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+
+.all_folder{
+    border: 7px black solid;
+    background-image: url(космос.jpg);
+}
+
+header{
+    display: flex;
+    align-items: center;
+    height: 250px;
+    background-color: yellow;
+    justify-content: center;
+    border-bottom: 7px black solid;
+    overflow: hidden;
+}
+
+h2{
+    font-size: 170px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.work{
+    margin-left: 50px;
+}
+
+.folder1{
+    background-color: white;
+    width: 1350px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.but{
+    margin-left: 20px;
+    width: 640px;
+    height: 270px;
+}
+.but2{
+    margin-left: 25px;
+    background-image: url(резюме!.jpg);
+    background-size: 635px;
+}
+.but1{
+    background-image: url(Parallax!.jpg);
+    background-size: 635px;
+}
+
+.but4{
+    margin-left: 25px;
+    background-image: url(Article!.jpg);
+    background-size: 635px;
+    background-position: center;
+}
+.but3{
+    background-image: url(News!.PNG);
+    background-size: 635px;
+}
+
+.but6{
+    margin-left: 25px;
+    background-image: url(летняя_работа.jpg);
+    background-size: 635px;
+    background-position: center;
+}
+.but5{
+    background-image: url(Cart!.jpg);
+    background-size: 635px;
+    background-position: center;
+}
+
+.but7{
+    margin-left: 25px;
+    background-image: url(каникульнаяработа!.png);
+    background-size: 635px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.but8{
+    background-image: url(Rocket!.jpg);
+    background-size: 635px;
+    background-position: center;
+}
+
+.but9{
+    margin-left: 25px;
+    background-image: url(Calc!.PNG);
+    background-size: 480px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.but10{
+    background-image: url(ECO!.jpg);
+    background-size: 600px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
